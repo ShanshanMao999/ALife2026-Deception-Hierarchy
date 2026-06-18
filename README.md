@@ -1,5 +1,7 @@
 # ALife2026-Deception-Hierarchy
 
+![Simulation Overview](images/simu_dark.png)
+
 A multi-agent simulation framework for studying hierarchy formation, cooperation, and deception in evolving populations.
 
 ---
